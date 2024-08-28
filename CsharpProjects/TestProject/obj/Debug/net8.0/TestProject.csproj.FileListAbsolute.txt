@@ -1,0 +1,14 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll

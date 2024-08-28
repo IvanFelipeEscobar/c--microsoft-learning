@@ -1,0 +1,14 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/bin/Debug/net8.0/Excercise
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/bin/Debug/net8.0/Excercise.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/bin/Debug/net8.0/Excercise.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/bin/Debug/net8.0/Excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/bin/Debug/net8.0/Excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/refint/Excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/Excercise.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Excercise/obj/Debug/net8.0/ref/Excercise.dll

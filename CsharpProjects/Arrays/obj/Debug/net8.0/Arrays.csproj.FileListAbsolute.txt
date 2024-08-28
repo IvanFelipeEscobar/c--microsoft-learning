@@ -1,0 +1,14 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/ref/Arrays.dll

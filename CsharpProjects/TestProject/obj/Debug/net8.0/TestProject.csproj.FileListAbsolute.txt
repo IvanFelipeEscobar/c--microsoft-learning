@@ -12,3 +12,4 @@
 /Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
 /Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json

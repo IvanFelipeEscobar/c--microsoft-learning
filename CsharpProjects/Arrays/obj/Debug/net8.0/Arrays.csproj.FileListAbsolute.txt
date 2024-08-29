@@ -12,3 +12,4 @@
 /Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.pdb
 /Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
 /Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/ref/Arrays.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json

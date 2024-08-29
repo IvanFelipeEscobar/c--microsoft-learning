@@ -12,3 +12,4 @@
 /Users/felipe/software-stuff/dotnet/CsharpProjects/excercise2/obj/Debug/net8.0/excercise2.pdb
 /Users/felipe/software-stuff/dotnet/CsharpProjects/excercise2/obj/Debug/net8.0/excercise2.genruntimeconfig.cache
 /Users/felipe/software-stuff/dotnet/CsharpProjects/excercise2/obj/Debug/net8.0/ref/excercise2.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/excercise2/obj/Debug/net8.0/excercise2.sourcelink.json

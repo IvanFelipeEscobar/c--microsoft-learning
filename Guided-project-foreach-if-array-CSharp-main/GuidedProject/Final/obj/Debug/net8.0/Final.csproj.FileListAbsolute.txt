@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll

@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/bin/Debug/net8.0/iteration-excercises
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/bin/Debug/net8.0/iteration-excercises.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/bin/Debug/net8.0/iteration-excercises.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/bin/Debug/net8.0/iteration-excercises.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/bin/Debug/net8.0/iteration-excercises.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/refint/iteration-excercises.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/iteration-excercises.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/iteration-excercises/obj/Debug/net8.0/ref/iteration-excercises.dll

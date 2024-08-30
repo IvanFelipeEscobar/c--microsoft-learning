@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/bin/Debug/net8.0/fizz-buzz-challenge
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/bin/Debug/net8.0/fizz-buzz-challenge.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/bin/Debug/net8.0/fizz-buzz-challenge.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/bin/Debug/net8.0/fizz-buzz-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/bin/Debug/net8.0/fizz-buzz-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/refint/fizz-buzz-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/fizz-buzz-challenge.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/fizz-buzz-challenge/obj/Debug/net8.0/ref/fizz-buzz-challenge.dll

@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/bin/Debug/net8.0/variable-scope
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/bin/Debug/net8.0/variable-scope.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/bin/Debug/net8.0/variable-scope.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/bin/Debug/net8.0/variable-scope.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/bin/Debug/net8.0/variable-scope.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/refint/variable-scope.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/variable-scope.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/variable-scope/obj/Debug/net8.0/ref/variable-scope.dll

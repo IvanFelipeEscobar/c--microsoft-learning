@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/bin/Debug/net8.0/switch-case-excercise
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/bin/Debug/net8.0/switch-case-excercise.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/bin/Debug/net8.0/switch-case-excercise.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/bin/Debug/net8.0/switch-case-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/bin/Debug/net8.0/switch-case-excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/refint/switch-case-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/switch-case-excercise.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/switch-case-excercise/obj/Debug/net8.0/ref/switch-case-excercise.dll

@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/bin/Debug/net8.0/conditional-logic
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/bin/Debug/net8.0/conditional-logic.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/bin/Debug/net8.0/conditional-logic.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/bin/Debug/net8.0/conditional-logic.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/bin/Debug/net8.0/conditional-logic.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/refint/conditional-logic.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/conditional-logic.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-logic/obj/Debug/net8.0/ref/conditional-logic.dll

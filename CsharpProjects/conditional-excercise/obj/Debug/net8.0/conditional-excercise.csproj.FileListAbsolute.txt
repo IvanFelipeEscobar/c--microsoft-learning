@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/bin/Debug/net8.0/conditional-excercise
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/bin/Debug/net8.0/conditional-excercise.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/bin/Debug/net8.0/conditional-excercise.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/bin/Debug/net8.0/conditional-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/bin/Debug/net8.0/conditional-excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/refint/conditional-excercise.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/conditional-excercise.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/conditional-excercise/obj/Debug/net8.0/ref/conditional-excercise.dll

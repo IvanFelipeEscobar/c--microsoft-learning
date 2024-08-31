@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/bin/Debug/net8.0/battle-challenge
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/bin/Debug/net8.0/battle-challenge.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/bin/Debug/net8.0/battle-challenge.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/bin/Debug/net8.0/battle-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/bin/Debug/net8.0/battle-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/refint/battle-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/battle-challenge.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/battle-challenge/obj/Debug/net8.0/ref/battle-challenge.dll

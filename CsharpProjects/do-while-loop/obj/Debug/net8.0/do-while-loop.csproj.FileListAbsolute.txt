@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/bin/Debug/net8.0/do-while-loop
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/bin/Debug/net8.0/do-while-loop.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/bin/Debug/net8.0/do-while-loop.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/bin/Debug/net8.0/do-while-loop.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/bin/Debug/net8.0/do-while-loop.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/refint/do-while-loop.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/do-while-loop.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/do-while-loop/obj/Debug/net8.0/ref/do-while-loop.dll

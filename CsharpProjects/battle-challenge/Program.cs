@@ -13,6 +13,7 @@ do
         attackPoints = damagePoints.Next(1, 11);
         monsterHealth -= attackPoints;
         Console.WriteLine($"Hero Attacks!\tcausing {attackPoints} pts of damage...\nHero Health: {heroHealth}\t\tMonster Health: {monsterHealth}\n");
+
     }
     else
     {

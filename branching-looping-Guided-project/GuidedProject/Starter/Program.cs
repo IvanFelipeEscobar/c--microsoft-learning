@@ -134,10 +134,95 @@ do
             }
             if (petCount < maxPets)
             {
-                Console.WriteLine(maxPets - petCount <= 0 ? "MAX NUMBER OF PETS" : $"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)}");
+                Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)}");
             }
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+
+            while (anotherPet == "y" && petCount < maxPets)
+            {
+                bool validEntry = false;
+                // get species (cat or dog) - string animalSpecies is a required field 
+                do
+                {
+                    Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalSpecies = readResult.ToLower();
+                        if (animalSpecies != "dog" && animalSpecies != "cat")
+                        {
+                            validEntry = false;
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+
+                    }
+
+                } while (validEntry == false);
+
+                // build the animal the ID number - for example C1, C2, D3 (for Cat 1, Cat 2, Dog 3)
+                animalID = animalSpecies.Substring(0, 1) + (petCount + 1).ToString();
+
+                // get the pet's age. can be ? at initial entry. 
+                do
+                {
+                    int petAge;
+                    Console.WriteLine("Enter the pet's age or enter ? if unknown");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalAge = readResult;
+                        if (animalAge != "?")
+                        {
+                            validEntry = int.TryParse(animalAge, out petAge);
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+
+                    }
+
+                } while (validEntry == false);
+                do
+                {
+                    Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken)");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalPhysicalDescription = readResult.ToLower();
+
+                    }
+                } while (animalPersonalityDescription == "");
+
+                petCount += 1;
+                // check maxPet limit
+
+                if (petCount < maxPets)
+                {
+                    // another pet?
+                    Console.WriteLine("Do you want to enter info for another pet (y/n)");
+                    do
+                    {
+                        readResult = Console.ReadLine();
+                        if (readResult != null)
+                        {
+                            anotherPet = readResult.ToLower();
+                        }
+
+                    } while (anotherPet != "y" && anotherPet != "n");
+                }
+
+
+            }
+            if (petCount >= maxPets)
+            {
+
+                Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
+                Console.WriteLine("Press the Enter key to continue.");
+                readResult = Console.ReadLine();
+            }
             break;
         case "3":
             // update current pet health information

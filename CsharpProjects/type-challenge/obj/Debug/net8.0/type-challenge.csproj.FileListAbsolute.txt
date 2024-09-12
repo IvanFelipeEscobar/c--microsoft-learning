@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/bin/Debug/net8.0/type-challenge
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/bin/Debug/net8.0/type-challenge.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/bin/Debug/net8.0/type-challenge.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/bin/Debug/net8.0/type-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/bin/Debug/net8.0/type-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/refint/type-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/type-challenge.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/type-challenge/obj/Debug/net8.0/ref/type-challenge.dll

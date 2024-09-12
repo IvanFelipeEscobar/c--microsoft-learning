@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/bin/Debug/net8.0/data-types
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/bin/Debug/net8.0/data-types.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/bin/Debug/net8.0/data-types.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/bin/Debug/net8.0/data-types.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/bin/Debug/net8.0/data-types.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/refint/data-types.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/data-types.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-types/obj/Debug/net8.0/ref/data-types.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felipe/software-stuff/dotnet/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
+      "projectUniqueName": "/Users/felipe/software-stuff/dotnet/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
       "projectName": "Final",
-      "projectPath": "/Users/felipe/software-stuff/dotnet/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
+      "projectPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/Final.csproj",
       "packagesPath": "/Users/felipe/.nuget/packages/",
-      "outputPath": "/Users/felipe/software-stuff/dotnet/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/",
+      "outputPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/felipe/.nuget/NuGet/NuGet.Config"

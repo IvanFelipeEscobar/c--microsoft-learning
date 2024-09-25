@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Final/Final.csproj",
+      "projectUniqueName": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Final/Final.csproj",
       "projectName": "Final",
-      "projectPath": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Final/Final.csproj",
+      "projectPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Final/Final.csproj",
       "packagesPath": "/Users/felipe/.nuget/packages/",
-      "outputPath": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Final/obj/",
+      "outputPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Final/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/felipe/.nuget/NuGet/NuGet.Config"

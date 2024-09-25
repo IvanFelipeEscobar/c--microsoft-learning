@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj": {}
+    "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj": {
+    "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/Users/felipe/.nuget/packages/",
-        "outputPath": "/Users/felipe/software-stuff/dotnet/branching-looping-Guided-project/GuidedProject/Starter/obj/",
+        "outputPath": "/Users/felipe/software-stuff/dotnet/CsharpProjects/branching-looping-Guided-project/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/felipe/.nuget/NuGet/NuGet.Config"

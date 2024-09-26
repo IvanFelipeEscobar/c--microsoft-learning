@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/bin/Debug/net8.0/data-format
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/bin/Debug/net8.0/data-format.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/bin/Debug/net8.0/data-format.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/bin/Debug/net8.0/data-format.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/bin/Debug/net8.0/data-format.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/refint/data-format.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/data-format.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/data-format/obj/Debug/net8.0/ref/data-format.dll

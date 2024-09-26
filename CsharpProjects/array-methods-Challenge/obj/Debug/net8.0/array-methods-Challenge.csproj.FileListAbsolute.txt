@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/bin/Debug/net8.0/array-methods-Challenge
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/bin/Debug/net8.0/array-methods-Challenge.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/bin/Debug/net8.0/array-methods-Challenge.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/bin/Debug/net8.0/array-methods-Challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/bin/Debug/net8.0/array-methods-Challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/refint/array-methods-Challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/array-methods-Challenge.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/array-methods-Challenge/obj/Debug/net8.0/ref/array-methods-Challenge.dll

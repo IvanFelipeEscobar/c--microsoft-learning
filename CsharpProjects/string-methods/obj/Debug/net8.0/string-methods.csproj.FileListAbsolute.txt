@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/bin/Debug/net8.0/string-methods
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/bin/Debug/net8.0/string-methods.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/bin/Debug/net8.0/string-methods.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/bin/Debug/net8.0/string-methods.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/bin/Debug/net8.0/string-methods.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/refint/string-methods.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/string-methods.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/string-methods/obj/Debug/net8.0/ref/string-methods.dll

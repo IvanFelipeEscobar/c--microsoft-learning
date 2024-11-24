@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/bin/Debug/net8.0/methods-with-parameters.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/refint/methods-with-parameters.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/methods-with-parameters.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/methods-with-parameters/obj/Debug/net8.0/ref/methods-with-parameters.dll

@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/bin/Debug/net8.0/method-with-return-valu
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/bin/Debug/net8.0/method-with-return-valu.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/bin/Debug/net8.0/method-with-return-valu.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/bin/Debug/net8.0/method-with-return-valu.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/bin/Debug/net8.0/method-with-return-valu.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/refint/method-with-return-valu.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/method-with-return-valu.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/method-with-return-value/obj/Debug/net8.0/ref/method-with-return-valu.dll

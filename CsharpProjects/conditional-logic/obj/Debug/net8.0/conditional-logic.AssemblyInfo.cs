@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("conditional-logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b53779053c9fa7bce36a1509af44820bff9aa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55554728e33309a73bd0e882402eb2794c675764")]
 [assembly: System.Reflection.AssemblyProductAttribute("conditional-logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("conditional-logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

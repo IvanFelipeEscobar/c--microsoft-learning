@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/bin/Debug/net8.0/dice-game
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/bin/Debug/net8.0/dice-game.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/bin/Debug/net8.0/dice-game.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/bin/Debug/net8.0/dice-game.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/bin/Debug/net8.0/dice-game.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/refint/dice-game.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/dice-game.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/dice-game/obj/Debug/net8.0/ref/dice-game.dll

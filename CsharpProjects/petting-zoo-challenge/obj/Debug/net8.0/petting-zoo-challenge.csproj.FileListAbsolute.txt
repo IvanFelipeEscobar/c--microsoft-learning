@@ -1,0 +1,15 @@
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.AssemblyInfoInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.AssemblyInfo.cs
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.csproj.CoreCompileInputs.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.sourcelink.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/bin/Debug/net8.0/petting-zoo-challenge
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/bin/Debug/net8.0/petting-zoo-challenge.deps.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/bin/Debug/net8.0/petting-zoo-challenge.runtimeconfig.json
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/bin/Debug/net8.0/petting-zoo-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/bin/Debug/net8.0/petting-zoo-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/refint/petting-zoo-challenge.dll
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.pdb
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/petting-zoo-challenge.genruntimeconfig.cache
+/Users/felipe/software-stuff/dotnet/CsharpProjects/petting-zoo-challenge/obj/Debug/net8.0/ref/petting-zoo-challenge.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fizz-buzz-challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e2ceea179812f92c7439f024734a12d61ab7cc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54636a6f25fdf1c94e8172e476dfd644e08cbc66")]
 [assembly: System.Reflection.AssemblyProductAttribute("fizz-buzz-challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fizz-buzz-challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
